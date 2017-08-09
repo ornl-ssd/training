@@ -1,6 +1,6 @@
 ---
 layout: exercise
-title: Heat Transfer Model 1
+title: Heat 1 - Heat Transfer Model
 ---
 
 In this exercise, we will develop an algorithm for computing the temperature at a particular location on a plate being welded using the Rosenthal equation[^1]. We can just work in two dimensions, so assume $$ z = 0 $$.
